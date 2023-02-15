@@ -1,6 +1,6 @@
 public class MyFile {
 	public static void main(String args[]) {
-		System.out.println("New Repo  dsfdsfdfd created");
+		System.out.println("New Repo   created");
 
 		display();
 	}
